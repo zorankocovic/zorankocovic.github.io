@@ -1,0 +1,32 @@
+{
+  "station": {
+    "id": "WS-001",
+    "location": {
+      "latitude": 51.5074,
+      "longitude": -0.1278
+    },
+    "elevation_m": 15
+  },
+  "data": {
+    "timestamp": "2026-03-11T09:40:00Z",
+    "wind": {
+      "speed": {
+        "value": 5.76,
+        "unit": "m/s"
+      },
+      "direction": {
+        "degrees": 260,
+        "compass": "W"
+      },
+      "gust": {
+        "value": 8.5,
+        "unit": "m/s"
+      },
+      "measurement_height_m": 10
+    },
+    "atmosphere": {
+      "temperature_c": 12.5,
+      "pressure_hpa": 1013
+    }
+  }
+}

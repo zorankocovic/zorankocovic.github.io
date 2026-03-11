@@ -1,0 +1,22 @@
+{
+  "location": {
+    "city": "London",
+    "country": "UK",
+    "coordinates": {
+      "lat": 51.5085,
+      "lon": -0.1257
+    }
+  },
+  "temperature": {
+    "current": 18.5,
+    "min": 12.0,
+    "max": 22.3,
+    "feels_like": 17.2,
+    "unit": "Celsius"
+  },
+  "metadata": {
+    "timestamp": 1710146700,
+    "sensor_id": "ST-405",
+    "status": "active"
+  }
+}
